@@ -15,21 +15,21 @@
                     <img src="Images/HangmanCode.png" alt="Hangman" style="height:250px" class="img-thumbnail">
                     <h4>Enjoy a digital game of Hangman</h4>
                     <br>
-                    <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
+                    <p><a class="btn btn-secondary" href="https://gkarma5523.github.io/HangmanGame/" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
                     <h2>Banking App</h2>
                     <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/BankingApp" role="button">View on Github</a></p>
                     <img src="Images/BankingApp.png" alt="Banking App" style="height:250px" class="img-thumbnail">
                     <h4>A take on our own banking backend</h4>
-                    <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
+                    <p><a class="btn btn-secondary" href="https://gkarma5523.github.io/BankingApp/" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
                     <h2>Stock Trading App</h2>
                     <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/StockTradingApp" role="button">View on Github</a></p>
                     <img src="Images/StockTradingApp.png" alt="Stock Trading App" style="height:250px" class="img-thumbnail">
                     <h4>Try investing on the S&P 500 over the last year</h4>
-                    <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
+                    <p><a class="btn btn-secondary" href="https://gkarma5523.github.io/StockTradingApp/" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
                     <h2>Boggle</h2>
