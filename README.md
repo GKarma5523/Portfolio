@@ -8,6 +8,7 @@
     </head>
     <body>
         <h3> Below is a list of programming projects with links to them that have been completed utilizing markdown languages like HTML and programming languages like PHP, C#, and .NET.</h3>
+        <br>
 
         <div class="container">
             <div class="row text-center">
@@ -41,6 +42,7 @@
                 </div>
             </div>
         </div>
+        <br>
         <h3>The following are a list of cyber project that have been completed or are being worked on.</h3>
     </body>
 </html>
