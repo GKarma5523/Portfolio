@@ -11,31 +11,31 @@
             <div class="row">
                 <div class="col-md-3">
                     <h2>Hangman</h2>
-                    <p><button><a href="https://github.com/GKarma5523/HangmanGame">View on Github</a>.</button></p>
+                    <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/HangmanGame" role="button">View on Github</a></p>
                     <img src="Images/HangmanCode.png" alt="Hangman" style="height:250px" class="img-thumbnail">
                     <p>Enjoy a digital game of Hangman</p>
-                    <p><button><a href="hangman.html">View Details</a></button></p>
+                    <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
                     <h2>Banking App</h2>
-                    <p><button><a href="https://github.com/GKarma5523/BankingApp">View on Github</a>.</button></p>
+                    <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/BankingApp" role="button">View on Github</a></p>
                     <img src="Images/BankingApp.png" alt="Banking App" style="height:250px" class="img-thumbnail">
                     <p>A take on our own banking backend</p>
-                    <p><button><a href="hangman.html">View Details</a></button></p>
+                    <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
                     <h2>Stock Trading App</h2>
-                    <p><button><a href="https://github.com/GKarma5523/StockTradingApp">View on Github</a>.</button></p>
+                    <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/StockTradingApp" role="button">View on Github</a></p>
                     <img src="Images/StockTradingApp.png" alt="Stock Trading App" style="height:250px" class="img-thumbnail">
                     <p>Try your skills at the S&P 500 over the last year</p>
-                    <p><button><a href="hangman.html">View Details</a></button></p>
+                    <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
                     <h2>Boggle</h2>
-                    <p><button><a href="">View on Github</a>.</button></p>
+                    <p><a class="btn btn-secondary" href="" role="button">View on Github</a></p>
                     <img src="Images/BoggleGame.png" alt="Boggle" style="height:250px" class="img-thumbnail">
                     <p>Compete against another to guess the most words</p>    
-                    <p><button><a href="hangman.html">View Details</a></button></p>
+                    <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
             </div>
 
