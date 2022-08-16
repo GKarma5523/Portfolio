@@ -8,7 +8,7 @@
         <p> Below is a list of programming projects with links to them that have been completed utilizing markdown languages like HTML and programming languages like PHP, C#, and .NET.</p>
 
         <div class="container">
-            <div class="row">
+            <div class="row text-center">
                 <div class="col-md-3">
                     <h2>Hangman</h2>
                     <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/HangmanGame" role="button">View on Github</a></p>
