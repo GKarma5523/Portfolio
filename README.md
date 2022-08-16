@@ -5,7 +5,7 @@
         <h3>As someone who loves programming and cyber security, here is a overview of projects that are either being worked on or completed.</h3>
     </head>
     <body>
-        <p> Below is a list of programming projects with links to them that have been completed utilizing markdown languages like HTML and programming languages like PHP, C#, and .NET.</p>
+        <h4> Below is a list of programming projects with links to them that have been completed utilizing markdown languages like HTML and programming languages like PHP, C#, and .NET.</h4>
 
         <div class="container">
             <div class="row text-center">
@@ -13,7 +13,7 @@
                     <h2>Hangman</h2>
                     <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/HangmanGame" role="button">View on Github</a></p>
                     <img src="Images/HangmanCode.png" alt="Hangman" style="height:250px" class="img-thumbnail">
-                    <p style="color:white">Enjoy a digital game of Hangman</p>
+                    <h4>Enjoy a digital game of Hangman</h4>
                     <br>
                     <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
@@ -21,25 +21,25 @@
                     <h2>Banking App</h2>
                     <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/BankingApp" role="button">View on Github</a></p>
                     <img src="Images/BankingApp.png" alt="Banking App" style="height:250px" class="img-thumbnail">
-                    <p style="color:white">A take on our own banking backend</p>
+                    <h4>A take on our own banking backend</h4>
                     <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
                     <h2>Stock Trading App</h2>
                     <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/StockTradingApp" role="button">View on Github</a></p>
                     <img src="Images/StockTradingApp.png" alt="Stock Trading App" style="height:250px" class="img-thumbnail">
-                    <p style="color:white">Try investing on the S&P 500 over the last year</p>
+                    <h4>Try investing on the S&P 500 over the last year</h4>
                     <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
                     <h2>Boggle</h2>
                     <p><a class="btn btn-secondary" href="" role="button">View on Github</a></p>
                     <img src="Images/BoggleGame.png" alt="Boggle" style="height:250px" class="img-thumbnail">
-                    <p style="color:white">Compete against another to guess the most words</p>    
+                    <h4>Compete against another to guess the most words</h4>    
                     <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
             </div>
         </div>
-        <p>The following are a list of cyber project that have been completed or are being worked on.</p>
+        <h4>The following are a list of cyber project that have been completed or are being worked on.</h4>
     </body>
 </html>
