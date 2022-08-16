@@ -22,7 +22,6 @@
                     <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/BankingApp" role="button">View on Github</a></p>
                     <img src="Images/BankingApp.png" alt="Banking App" style="height:250px" class="img-thumbnail">
                     <p style="color:white">A take on our own banking backend</p>
-                    <br>
                     <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
                 </div>
                 <div class="col-md-3">
