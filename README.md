@@ -38,7 +38,7 @@
                     <p><a class="btn btn-secondary" href="" role="button">View on Github</a></p>
                     <img src="Images/BoggleGame.png" alt="Boggle" style="height:250px" class="img-thumbnail">
                     <h3>Compete against another to guess the most words</h3>    
-                    <p><a class="btn btn-secondary" href="hangman.html" role="button">View Details</a></p>
+                    <p><a class="btn btn-secondary" href="https://gkarma5523.github.io/BoggleGame/" role="button">View Details</a></p>
                 </div>
             </div>
         </div>
