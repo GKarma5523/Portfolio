@@ -12,7 +12,7 @@
 
         <div class="container">
             <div class="row text-center">
-                <div class="col-md-3">
+                <div class="col-md-3 mb-2">
                     <h2>Hangman</h2>
                     <p><a class="btn btn-secondary" href="https://github.com/GKarma5523/HangmanGame" role="button">View on Github</a></p>
                     <img src="Images/HangmanCode.png" alt="Hangman" style="height:250px" class="img-thumbnail">
